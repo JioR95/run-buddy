@@ -31,7 +31,7 @@ header nav {
 header nav ul li {
     display: inline;
 }
-header nac ul li a {
+header nav ul li a {
     margin: 0 30px;
     front-weight: lighter;
     front-size: 22px;
