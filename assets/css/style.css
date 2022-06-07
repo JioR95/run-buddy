@@ -33,14 +33,12 @@ header nav ul li {
 }
 header nav ul li a {
     margin: 0 30px;
-    front-weight: lighter;
-    front-size: 22px;
+    font-weight: lighter;
+    font-size: 22px;
 }
 header h1 { 
-    front-weight: bold;
-    front-size: 36px;
+    font-weight: bold;
+    font-size: 36px;
     color: #fce138;
     margin: 0;
-    display: inline;
-
-}
+    display: inline;}
