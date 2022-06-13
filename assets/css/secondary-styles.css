@@ -1,0 +1,47 @@
+.hero {
+    background-position: bottom;
+    height: auto;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.hero {
+    background-image: url(./aasets/images/hero-bg.jpg);
+background-size: cover;
+background-position: bottom;
+position: relative;
+height: auto;
+text-align: center;
+margin-bottom: 40px;
+}
+.secondary-content {
+    width: 80%;
+    margin: center;
+}
+.h3 .secondary-content {
+    font-size: 25px;
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+    margin-left: 0;
+    margin-right: 0;
+}
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+    margin-left: 0;
+    margin-right: 0;
+}
+.ul {
+    margin-top: 15px;
+    margin-bottom: 15;
+    margin-left: 20;
+    margin-right: 20;
+}
+.li {
+    color: #39a6b2;
+    margin-top: 10;
+    margin-bottom: 10;
+    margin-left: 0;
+    margin-right: 0;
+}
