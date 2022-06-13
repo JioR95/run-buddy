@@ -19,6 +19,7 @@ header h1 {
     font-size: 36px;
     color: #fce138;
     margin: 0;
+    display: inline;
 }
 
 header a {
@@ -30,6 +31,9 @@ header nav {
     margin: 7px 0;
 }
 header nav ul li {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
     display: inline;
 }
 header nav ul li a {
@@ -73,7 +77,9 @@ header h1 {
         background-size: cover;
         background-position: center;
         position: relative;
+        background-color: white;
     }
+    
     /* Hero Style End */
     .hero-form {
         
@@ -132,6 +138,7 @@ header h1 {
         color: #39a6b2;
         width: 80%;
         font-size: 20px;
+    
     }
     .intro p {
         /*add this alongside your other declarations*/
@@ -176,6 +183,8 @@ header h1 {
     .steps span {
         font-size: 38px;
     }
+    .section-title
+
     .trainers {
         text-align: center;
     }
