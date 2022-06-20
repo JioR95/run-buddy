@@ -45,7 +45,7 @@ display: inline
 footer {
 background: #fce138;
 width: 100%
-padding  40px 35px;
+padding 40px 35px;
 }
 
 footer h2 {
@@ -154,18 +154,18 @@ width: 15%;
 margin: 10px 0;
 }
 
-.step h3 {
+.steps h3 {
 color: #024e76;
 font-size: 46px;
 margin-top: 10px;
 }
       
-.step p {
+.steps p {
 color: #39a6b2;
 font-size: 23px;
 }
       
-.step h4 {
+.steps span {
 font-size: 38px;
 }
 
@@ -177,15 +177,7 @@ padding: 0 100px 20px 100px;
 display: inline-block;
 border-bottom: 3px solid;
 }
-     
-.step:nth-child(even) {
-    border-bottom: 1px solid #39a6b2;
-  }
-
-  .step:not(:last-child) {
-    border-bottom: 1px solid #39a6b2;
-  }
-  
+      
 .primary-border {
 border-color: #fce138;
 }
